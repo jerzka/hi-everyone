@@ -1,3 +1,2 @@
 # hi-everyone
-My first step on GitHub. 
-I'm interested in WebXr. 
+I'm interested in WebXR. 
